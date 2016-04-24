@@ -1,0 +1,5 @@
+PWM	KEYWORD1
+handler	KEYWORD2
+setDuty	KEYWORD2
+setRetard	KEYWORD2
+getCounter	KEYWORD2
